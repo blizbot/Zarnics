@@ -1,0 +1,10 @@
+{
+  "prefix" : ".",
+  "token": "OTI3NTI0NDE2Nzg5ODA3MTg1.YdLebQ.2dHUbuEDp31Oe_Hc3ccLdIaYvWk",
+  "db": "mongodb+srv://Snzy:neji@webupt.vhkov.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "color": "BLUE",
+    "error": "RED",
+    "success": "GREEN"
+
+  
+  }
